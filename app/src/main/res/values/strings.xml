@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="format_today">"yyyy년 MM월 dd일 E요일"</string>
+    <string name="input_date">"출시일"</string>
+</resources>
