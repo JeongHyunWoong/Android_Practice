@@ -1,4 +1,5 @@
-# Android_practice
-# 안드로이드 기초 예제 연습
-# dw아카데미 연습과정
-# 롤 챔피언으로 구성
+
+<h3 align="center">Android_practice</h3>
+<p align="center">
+  ![자판기-관리자](https://user-images.githubusercontent.com/114462583/204177923-cc706973-8d7b-4cab-b571-5b7c0f9193f5.png)
+</p>
